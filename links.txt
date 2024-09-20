@@ -1,0 +1,10 @@
+1: https://qlean.ru/
+2: https://qlean.ru/sso
+3: https://qlean.ru/cleaning/standard
+4: https://qlean.ru/drycleaning
+5: https://qlean.ru/cleaning/windows
+6: https://qlean.ru/cleaning/deep
+7: https://qlean.ru/cleaning/post-renovation
+8: https://qlean.ru/cleaning/conditioner
+9: https://qlean.ru/legal/plus_security
+10: https://qlean.ru/contacts
